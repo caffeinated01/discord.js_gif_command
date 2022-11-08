@@ -1,4 +1,4 @@
-# discord.js_reddit_scraper:
+# discord.js_gif_command:
 A basic gif command for discord bots.
 # My Command handler:
   [discord.js template][template]
